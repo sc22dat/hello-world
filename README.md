@@ -1,3 +1,3 @@
 # hello-world
-git tutorial
+git tut.
 EE student 
